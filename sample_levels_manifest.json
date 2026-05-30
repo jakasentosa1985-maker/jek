@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "Animals",
+      "levels": [
+        {
+          "id": "animal_01",
+          "coinsToAward": 10,
+          "locked": false,
+          "coinsToUnlock": 0,
+          "bytesUrl": "https://my-server.com/picture-coloring/levels/animal_01_bytes.bytes",
+          "thumbnailUrl": ""
+        },
+        {
+          "id": "animal_02",
+          "coinsToAward": 15,
+          "locked": true,
+          "coinsToUnlock": 100,
+          "bytesUrl": "https://my-server.com/picture-coloring/levels/animal_02_bytes.bytes",
+          "thumbnailUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "levels": [
+        {
+          "id": "nature_01",
+          "coinsToAward": 20,
+          "locked": false,
+          "coinsToUnlock": 0,
+          "bytesUrl": "https://my-server.com/picture-coloring/levels/nature_01_bytes.bytes",
+          "thumbnailUrl": ""
+        }
+      ]
+    }
+  ]
+}
